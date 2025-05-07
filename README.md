@@ -6,6 +6,8 @@ I’m a builder at heart—equally energized by low‑level C debugging and high
 
 > *“Turning complex problems into delightful, user‑centred solutions.”*
 
+💼 **Actively seeking — Software Engineering internships (Summer / Fall 2025)** in the Bay Area or remote. Passionate about AI infrastructure, dev‑tools, and ed‑tech. Let’s build something remarkable together!
+
 ---
 
 ## 🚀 What I'm building / exploring
@@ -17,7 +19,7 @@ I’m a builder at heart—equally energized by low‑level C debugging and high
 | **🌐 Full‑stack & cloud**        | Scalable web back‑ends, CI/CD, and DevOps pipelines                   |
 | **🤖 LLM agents**                | Multimodal reasoning, tool‑use orchestration, and system optimisation |
 
-Outside of code, I mentor peers, post technical write‑ups, and nurture a healthy obsession with specialty coffee ☕.
+Outside of code, I mentor peers, write technical deep‑dives, and nurture a healthy obsession with specialty coffee ☕.
 
 ---
 
@@ -47,12 +49,12 @@ Outside of code, I mentor peers, post technical write‑ups, and nurture a healt
 
 ## ✨ Featured Projects
 
-| Project                                                                                              | Stack                | Brief Description                                                                                                               |
-| ---------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **OCR Word Search Solver** <br>[:link: repo](https://github.com/cyprienoudart/OCR-WordSearch-Solver) | C / OpenCV / MLP     | End‑to‑end pipeline that preprocesses images, recognises letters, and solves word‑search puzzles in ≤ 0.1 s                     |
-| **Vision Pro Event Map** <br>[:link: repo](https://github.com/Queng123/AppleVision)                  | SwiftUI / RealityKit | Spatial app that places an interactive SF events map on your desk—complete with descriptions, links, and spatial video previews |
-| **English–Korean Translator** <br>[:link: repo](https://github.com/cyprienoudart/eng-kor-translator) | Python / TensorFlow  | Custom seq‑to‑seq model trained on 100 k sentence pairs with attention and Beam search decoding                                 |
-| **Personal Website** <br>[:link: site](https://cyprienoudart.com)                                    | Next.js / Tailwind   | Fast, multilingual portfolio & blog, deployed on Vercel with automated CI/CD                                                    |
+| Project                                                                                              | Stack                           | Brief Description                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **InVision SF** <br>[:link: repo](https://github.com/Queng123/AppleVision)                           | SwiftUI / RealityKit            | Vision Pro app that places an interactive 3‑D map of San Francisco events on any tabletop—complete with spatial videos & live links |
+| **English–Korean Translator** <br>[:link: repo](https://github.com/cyprienoudart/eng-kor-translator) | Python / TensorFlow             | Custom seq‑to‑seq model (attention + beam search) trained on 100 k+ sentence pairs                                                   |
+| **MindWeaver** <br>(private repo)                                                                    | Python / LangChain / OpenAI API | Multimodal AI agent that reasons about user intent and autonomously strings together tools to turn ideas into finished artefacts    |
+| **Photomath‑Style Solver** <br>(in progress)                                                         | Swift / Core ML                 | Mobile prototype that snapshots handwritten equations and returns step‑by‑step solutions with interactive graphs                    |
 
 ---
 
@@ -66,6 +68,14 @@ Outside of code, I mentor peers, post technical write‑ups, and nurture a healt
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyprienoudart&theme=github-compact" width="100%" />
 </p>
+
+---
+
+## 📝 Writing & Talks
+
+A snapshot of what I’m sharing—see more on my [Medium profile](https://medium.com/@cypoudart):
+
+* **Building While Learning: How College Projects Shaped My Engineering Playbook** – Lessons from turning coursework into production‑grade code. [\[Medium\]](https://medium.com/@cypoudart/building-while-learning-how-college-projects-shaped-my-engineering-playbook-85c1da51155a)
 
 ---
 

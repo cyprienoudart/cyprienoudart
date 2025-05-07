@@ -1,8 +1,10 @@
 # 👋 Hi there! I'm **Cyprien Oudart**
 
-**Computer Engineering @ EPITA (🇫🇷)  |  Exchange Student @ San Francisco State University 🇺🇸**
+**Computer Engineering student @ EPITA (🇫🇷)  |  Exchange Scholar @ San Francisco State University 🇺🇸**
 
-I love turning ambitious ideas into elegant, reliable software—with a special focus on AI, developer tooling, and delightful user experiences.
+I’m a builder at heart—equally energized by low‑level C debugging and high‑level product strategy. Between lecture halls and late‑night hackathons, I lead **[Scribocracy](https://cyprienoudart.com)** (a smart note‑taking startup), experiment with AI agents, and contribute to open‑source tooling that makes engineering more joyful.
+
+> *“Turning complex problems into delightful, user‑centred solutions.”*
 
 ---
 
@@ -15,14 +17,20 @@ I love turning ambitious ideas into elegant, reliable software—with a special 
 | **🌐 Full‑stack & cloud**        | Scalable web back‑ends, CI/CD, and DevOps pipelines                   |
 | **🤖 LLM agents**                | Multimodal reasoning, tool‑use orchestration, and system optimisation |
 
+Outside of code, I mentor peers, post technical write‑ups, and nurture a healthy obsession with specialty coffee ☕.
+
 ---
 
 ## 🛠️ Toolbox
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
@@ -32,6 +40,8 @@ I love turning ambitious ideas into elegant, reliable software—with a special 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-E56326?style=for-the-badge\&logo=ocaml\&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-1e4aec?style=for-the-badge\&logo=gnu\&logoColor=white)
 
 ---
 
@@ -65,4 +75,4 @@ I love turning ambitious ideas into elegant, reliable software—with a special 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/CyprienOudart/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://cyprienoudart.com)
 
-<sub>*Turning complex problems into delightful, user‑centred solutions.*</sub>
+<sub>Building bridges between people and technology—one commit at a time.</sub>

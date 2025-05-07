@@ -76,7 +76,7 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 A snapshot of what I’m sharing—see more on my [Medium profile](https://medium.com/@cypoudart):
 
 * **Building While Learning: How College Projects Shaped My Engineering Playbook** – Lessons from turning coursework into production‑grade code. [\[Medium\]](https://medium.com/@cypoudart/building-while-learning-how-college-projects-shaped-my-engineering-playbook-85c1da51155a)
-
+* **MathCam — Solving Math Through the Lens** – Turning camera snapshots into step‑by‑step solutions with on‑device AI. [\[Medium\]](https://medium.com/@cypoudart/mathcam-solving-math-through-the-lens-c9fd45cdd378)
 ---
 
 ## 🤝 Connect with me

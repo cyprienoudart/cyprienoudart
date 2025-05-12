@@ -81,8 +81,12 @@ A snapshot of what I’m sharing—see more on my [Medium profile](https://mediu
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/cyprienoudart)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/CyprienOudart/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://cyprienoudart.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyprienoudart)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprienoudart)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cypoudart)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CyprienOudart/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cyprienoudart.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cypoudart@gmail.com)
+[![Lu.ma](https://img.shields.io/badge/Lu.ma-0E7C7B?style=for-the-badge&logo=lumalabs&logoColor=white)](https://lu.ma/user/CyprienOudart)
 
 <sub>Building bridges between people and technology—one commit at a time.</sub>

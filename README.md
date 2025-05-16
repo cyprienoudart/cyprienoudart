@@ -41,6 +41,8 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-E56326?style=for-the-badge\&logo=ocaml\&logoColor=white)
 ![Scheme](https://img.shields.io/badge/Scheme-1e4aec?style=for-the-badge\&logo=gnu\&logoColor=white)

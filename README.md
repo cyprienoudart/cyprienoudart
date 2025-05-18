@@ -56,16 +56,19 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 | **InVision SF** <br>[:link: repo](https://github.com/Queng123/AppleVision)                           | SwiftUI / RealityKit            | Vision Pro app that places an interactive 3‑D map of San Francisco events on any tabletop—complete with spatial videos & live links |
 | **English–Korean Translator** <br>[:link: repo](https://github.com/cyprienoudart/eng-kor-translator) | Python / TensorFlow             | Custom seq‑to‑seq model (attention + beam search) trained on 100 k+ sentence pairs                                                   |
 | **MindWeaver** <br>(private repo)                                                                    | Python / LangChain / OpenAI API | Multimodal AI agent that reasons about user intent and autonomously strings together tools to turn ideas into finished artefacts    |
-| **Photomath‑Style Solver** <br>(in progress)                                                         | Swift / Core ML                 | Mobile prototype that snapshots handwritten equations and returns step‑by‑step solutions with interactive graphs                    |
+| **MathCam** <br>(in progress)                                                         | Swift / Core ML                 | Mobile prototype that snapshots handwritten equations and returns step‑by‑step solutions with interactive graphs                    |
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cyprienoudart&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="142" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cyprienoudart&theme=tokyonight&hide_border=true" height="142" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="140" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyprienoudart&theme=github-compact" width="100%" />

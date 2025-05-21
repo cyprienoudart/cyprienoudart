@@ -65,9 +65,8 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 <p align="center">
   <img src="https://github-readme-stats-cyprien.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="142" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=cyprienoudart&theme=tokyonight&hide_border=true" height="142" />
-  <img src="https://github-readme-stats-cyprien.vercel.app/api/top-langs/?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="140" />
+  <img src="https://github-readme-stats-cyprien.vercel.app/api/top-langs/?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyprienoudart&theme=tokyonight&utcOffset=8" height="165" />
-
 </p>
 
 <p align="center">

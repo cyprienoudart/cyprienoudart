@@ -82,7 +82,6 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 </p>
 
 
-
 ---
 
 ## 📝 Writing & Talks

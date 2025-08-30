@@ -36,18 +36,25 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-E56326?style=for-the-badge\&logo=ocaml\&logoColor=white)
 ![Scheme](https://img.shields.io/badge/Scheme-1e4aec?style=for-the-badge\&logo=gnu\&logoColor=white)
+
 
 ---
 
@@ -57,8 +64,10 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 | ---------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **InVision SF** <br>[:link: repo](https://github.com/Queng123/AppleVision)                           | SwiftUI / RealityKit            | Vision Pro app that places an interactive 3‑D map of San Francisco events on any tabletop—complete with spatial videos & live links |
 | **English–Korean Translator** <br>[:link: repo](https://github.com/cyprienoudart/eng-kor-translator) | Python / TensorFlow             | Custom seq‑to‑seq model (attention + beam search) trained on 100 k+ sentence pairs                                                   |
+| **BitLyne** <br>(private repo)                                                                       | React / MongoDB / Node.js   | Gamified programming education app — won App Design Excellence & Innovation at SFSU App Showcase                  |
 | **MindWeaver** <br>(private repo)                                                                    | Python / LangChain / OpenAI API | Multimodal AI agent that reasons about user intent and autonomously strings together tools to turn ideas into finished artefacts    |
-| **MathCam** <br>(in progress)                                                         | Swift / Core ML                 | Mobile prototype that snapshots handwritten equations and returns step‑by‑step solutions with interactive graphs                    |
+| **StockMind Pro** <br>(in progress)                                                                  | React / Supabase / Stripe / AI        | Fintech platform offering AI-powered stock analytics, integrated with Supabase & Stripe                           |
+
 
 ---
 

@@ -64,21 +64,43 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 
 <p align="center">
   <!-- GitHub stats -->
-  <img src="https://github-readme-stats-cyprien-jk848rx5e-cyprienoudarts-projects.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="142" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
 
   <!-- GitHub streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cyprienoudart&theme=tokyonight&hide_border=true" height="142" />
+  <img
+    src="https://streak-stats.demolab.com?user=cyprienoudart&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
 
+<p align="center">
   <!-- Top languages -->
-  <img src="https://github-readme-stats-cyprien-jk848rx5e-cyprienoudarts-projects.vercel.app/api/top-langs/?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Top Languages"
+    height="165"
+  />
 
   <!-- Productive time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyprienoudart&theme=tokyonight&utcOffset=8" height="165" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyprienoudart&theme=tokyonight&utcOffset=2"
+    alt="Productive Time"
+    height="165"
+  />
 </p>
 
 <p align="center">
   <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyprienoudart&theme=github-compact" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cyprienoudart&theme=github-compact&hide_border=true"
+    alt="Contribution Graph"
+    width="95%"
+  />
 </p>
 
 

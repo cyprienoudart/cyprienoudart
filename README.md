@@ -1,23 +1,25 @@
-# 👋 Hi there! I'm **Cyprien Oudart**
+# 👋 Hi there! I'm **Cyprien Oudart**
 
-**Computer Engineering student @ EPITA (🇫🇷)  |  Exchange Scholar @ San Francisco State University 🇺🇸**
+**Computer Engineering student @ EPITA (🇫🇷) | Exchange Scholar @ San Francisco State University 🇺🇸**
 
-I’m a builder at heart—equally energized by low‑level C debugging and high‑level product strategy. Between lecture halls and late‑night hackathons, I lead **[Scribocracy](https://cyprienoudart.com)** (a smart note‑taking startup), experiment with AI agents, and contribute to open‑source tooling that makes engineering more joyful.
+I’m a builder, entrepreneur, and community leader — equally energized by low-level systems programming and high-level product strategy. I lead the **[Google Developer Group (GDG) EPITA](https://github.com/GDSC-EPITA)** community (organizing workshops, tech talks, and collaborative projects), co-founded **[Scribocracy](https://cyprienoudart.com)** (a smart note-taking startup), and contribute to open-source tools and hackathon-driven innovation.
 
-> *“Turning complex problems into delightful, user‑centred solutions.”*
+> *“Turning complex problems into delightful, user-centred solutions.”*
 
-💼 **Actively seeking — Software Engineering internships (Summer / Fall 2025)** in the Bay Area or remote. Passionate about AI infrastructure, dev‑tools, and ed‑tech. Let’s build something remarkable together!
+💼 **Actively seeking — Software Engineering internships (Summer / Fall 2025)** in the Bay Area or remote. Interests: AI infrastructure, dev-tools, ed-tech, and spatial computing.
 
 ---
 
-## 🚀 What I'm building / exploring
+## 🚀 What I'm building / exploring
 
 |                                  |                                                                       |
 | -------------------------------- | --------------------------------------------------------------------- |
-| **🧠 Scribocracy**               | CEO & Co‑Founder of a smart, searchable note‑taking platform          |
-| **📚 AI‑powered learning tools** | Ed‑tech projects that make programming and math more engaging         |
-| **🌐 Full‑stack & cloud**        | Scalable web back‑ends, CI/CD, and DevOps pipelines                   |
-| **🤖 LLM agents**                | Multimodal reasoning, tool‑use orchestration, and system optimisation |
+| **🤖 AI & LLM agents**           | Multimodal reasoning, tool orchestration, and system optimisation     |
+| **🌐 Full-stack & cloud**        | Scalable back-ends, databases, CI/CD, and DevOps pipelines            |
+| **📱 Mobile & spatial computing**| SwiftUI, Vision Pro apps, and AR/VR experiences                       |
+| **🧠 AI-powered learning tools**  | Ed-tech solutions that make programming and math more engaging        |
+| **⚡ Systems & algorithms**      | Low-level C/C++, data structures, optimisation, and performance       |
+
 
 Outside of code, I mentor peers, write technical deep‑dives, and nurture a healthy obsession with specialty coffee ☕.
 

@@ -62,56 +62,57 @@ Outside of code, I mentor peers, write technical deep‑dives, and nurture a hea
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<div align="center">
   <!-- GitHub stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
-    height="165"
+    height="150"
   />
-
   <!-- GitHub streak -->
   <img
     src="https://streak-stats.demolab.com?user=cyprienoudart&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-    height="165"
+    height="150"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <!-- Top languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
     alt="Top Languages"
-    height="165"
+    height="150"
   />
-
   <!-- Productive time -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyprienoudart&theme=tokyonight&utcOffset=2"
     alt="Productive Time"
-    height="165"
+    height="150"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <!-- Contribution graph -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=cyprienoudart&theme=github-compact&hide_border=true"
     alt="Contribution Graph"
-    width="95%"
+    height="250"
   />
-</p>
+</div>
 
 
 ---
 
-## 📝 Writing & Talks
+## 📝 Writing & Talks
 
 A snapshot of what I’m sharing—see more on my [Medium profile](https://medium.com/@cypoudart):
 
-* **Building While Learning: How College Projects Shaped My Engineering Playbook** – Lessons from turning coursework into production‑grade code. [\[Medium\]](https://medium.com/@cypoudart/building-while-learning-how-college-projects-shaped-my-engineering-playbook-85c1da51155a)
-* **MathCam — Solving Math Through the Lens** – Turning camera snapshots into step‑by‑step solutions with on‑device AI. [\[Medium\]](https://medium.com/@cypoudart/mathcam-solving-math-through-the-lens-c9fd45cdd378)
+* **Reimagining Programming Education: Why We Built BitLyne** – Insights into building a gamified coding-education app and rethinking how people learn programming. [\[Medium\]](https://medium.com/@cypoudart/reimagining-programming-education-0a61d2c62d63)
+* **From Paris to San Francisco: What I Learned Studying Computer Science in Two Countries** – Reflections on studying CS in France and the U.S., and how cultural/academic contrasts shaped my path. [\[Medium\]](https://medium.com/@cypoudart/from-paris-to-san-francisco-what-i-learned-studying-computer-science-in-two-countries-b2a0ccfdbf93)
+* **Building While Learning: How College Projects Shaped My Engineering Playbook** – Lessons from turning coursework into production-grade code. [\[Medium\]](https://medium.com/@cypoudart/building-while-learning-how-college-projects-shaped-my-engineering-playbook-85c1da51155a)
+* **MathCam — Solving Math Through the Lens** – Turning camera snapshots into step-by-step solutions with on-device AI. [\[Medium\]](https://medium.com/@cypoudart/mathcam-solving-math-through-the-lens-c9fd45cdd378)
+
 ---
 
 ## 🤝 Connect with me

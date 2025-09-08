@@ -126,7 +126,7 @@ A snapshot of what I’m sharing—see more on my [Medium profile](https://mediu
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyprienoudart)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprienoudart)

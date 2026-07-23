@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm **Cyprien Oudart**
 
-**Computer Engineering student @ EPITA (🇫🇷) | Chapter Lead @ [GDG on Campus EPITA](https://github.com/GDG-EPITA) | Independent ML Researcher**
+**Computer Engineering student @ EPITA (🇫🇷) | Chapter Lead @ [GDG EPITA](https://github.com/GDG-EPITA) | Independent ML Researcher**
 
-I'm a builder, entrepreneur, and community leader — equally energized by low-level systems programming and high-level product strategy. I lead the **Google Developer Group (GDG) on Campus EPITA** community (workshops, tech talks, hackathons), co-founded and led engineering at **ChainPilot** as CTO, and I'm currently writing an independent first-author research paper on how models understand user intent.
+I'm a builder, entrepreneur, and community leader — equally energized by low-level systems programming and high-level product strategy. I lead the **Google Developer Group (GDG) EPITA** community (workshops, tech talks, hackathons), co-founded and led engineering at **ChainPilot** as CTO, and I'm currently writing an independent first-author research paper on how models understand user intent.
 
 > *"Turning complex problems into delightful, user-centred solutions."*
 
@@ -69,7 +69,7 @@ Outside of code, I mentor peers, organize hackathons, write technical deep-dives
 | **RadAssist** <br>[🔗 repo](https://github.com/JamesBrownVC/RadAssist)                               | Python / Jupyter                 | Agentic workflow drafting context-aware radiology reports and tracking lesion progression, aimed at cutting radiologist burnout      |
 | **InVision SF** <br>[🔗 repo](https://github.com/Queng123/InVisionSF)                                | SwiftUI / RealityKit             | Vision Pro app that places an interactive 3‑D map of San Francisco events on any tabletop, built with the SF Mayor's Office         |
 | **OCR Word Search Solver** <br>[🔗 repo](https://github.com/cyprienoudart/OCR-Word-Search-Solver)    | C / GTK4                         | Solves word-search puzzles from a photo: image binarization, a hand-written neural net for character recognition, and a grid solver |
-| **English–Korean Translator** <br>[🔗 repo](https://github.com/cyprienoudart/eng-kor-translator)     | Python / TensorFlow              | Custom seq‑to‑seq model (attention + beam search) trained on 100k+ sentence pairs                                                    |
+| **English–Korean Translator** <br>🔗 private     | Python / TensorFlow              | Custom seq‑to‑seq model (attention + beam search) trained on 100k+ sentence pairs                                                    |
 
 📄 A public repo for the research paper (*Coverage-Driven User Intent Understanding*, targeting AAAI 2027) is coming once it's ready to share.
 

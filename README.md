@@ -64,6 +64,7 @@ Outside of code, I mentor peers, organize hackathons, write technical deep-dives
 | Project                                                                                              | Stack                           | Brief Description                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **Telos** <br>[🔗 repo](https://github.com/cyprienoudart/telos) · [Devpost](https://devpost.com/software/telos-w9emdy) | Python / Next.js / FastAPI       | Turns one natural-language instruction into a deployed product via a self-healing multi-agent build loop. Built at Hackeurope, now a validation case study in my research |
+| **DreamPath**                                                                                        | Multi-agent / LLM orchestration  | 🥇 1st place, Agentic AI Hackathon (GDG EPITA × EPITA Alumni × AI Tinkerers, 33 teams). Maps every path to a stated goal and simulates the obstacles year by year. Team lead |
 | **ChainPilot** <br>[🔗 site](https://www.chainpilot.pro/)                                            | Python / TypeScript / Next.js    | Financial logic layer for the agentic economy — blocks unsafe on-chain actions before execution. Co-founded and led engineering as CTO (Nov 2025–2026) |
 | **RadAssist** <br>[🔗 repo](https://github.com/JamesBrownVC/RadAssist)                               | Python / Jupyter                 | Agentic workflow drafting context-aware radiology reports and tracking lesion progression, aimed at cutting radiologist burnout      |
 | **InVision SF** <br>[🔗 repo](https://github.com/Queng123/InVisionSF)                                | SwiftUI / RealityKit             | Vision Pro app that places an interactive 3‑D map of San Francisco events on any tabletop, built with the SF Mayor's Office         |
@@ -78,7 +79,7 @@ Outside of code, I mentor peers, organize hackathons, write technical deep-dives
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-cyprien.vercel.app/api?username=cyprienoudart&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     height="150"
   />
@@ -90,7 +91,7 @@ Outside of code, I mentor peers, organize hackathons, write technical deep-dives
 </div>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-cyprien.vercel.app/api/top-langs?username=cyprienoudart&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
     alt="Top Languages"
     height="150"
   />

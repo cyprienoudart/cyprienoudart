@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **Cyprien Oudart**
+# 👋 Hi there! I'm **Cyprien Oudart** 
 
 **Computer Engineering student @ EPITA (🇫🇷) | Chapter Lead @ [GDG EPITA](https://github.com/GDG-EPITA) | Independent ML Researcher**
 

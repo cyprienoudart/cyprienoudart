@@ -110,17 +110,6 @@ Outside of code, I mentor peers, organize hackathons, write technical deep-dives
 
 ---
 
-## 📝 Writing & Talks
-
-A snapshot of what I'm sharing — see more on my [Medium profile](https://medium.com/@cypoudart):
-
-* **Reimagining Programming Education: Why We Built BitLyne** – Insights into building a gamified coding-education app and rethinking how people learn programming. [\[Medium\]](https://medium.com/@cypoudart/reimagining-programming-education-0a61d2c62d63)
-* **From Paris to San Francisco: What I Learned Studying Computer Science in Two Countries** – Reflections on studying CS in France and the U.S., and how cultural/academic contrasts shaped my path. [\[Medium\]](https://medium.com/@cypoudart/from-paris-to-san-francisco-what-i-learned-studying-computer-science-in-two-countries-b2a0ccfdbf93)
-* **Building While Learning: How College Projects Shaped My Engineering Playbook** – Lessons from turning coursework into production-grade code. [\[Medium\]](https://medium.com/@cypoudart/building-while-learning-how-college-projects-shaped-my-engineering-playbook-85c1da51155a)
-* **MathCam — Solving Math Through the Lens** – Turning camera snapshots into step-by-step solutions with on-device AI. [\[Medium\]](https://medium.com/@cypoudart/mathcam-solving-math-through-the-lens-c9fd45cdd378)
-
----
-
 ## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyprienoudart)

@@ -15,7 +15,7 @@ I'm a builder, entrepreneur, and community leader — equally energized by low-l
 |                                   |                                                                                       |
 | --------------------------------- | ----------------------------------------------------------------------------------------- |
 | 🧠 **AI & LLM agents**            | Multimodal reasoning, multi-agent orchestration, and tool use (MCP)                       |
-| 📄 **Research**                   | First-author preprint on coverage-driven user intent understanding, targeting AAAI 2027   |
+| 📄 **Research**                   | First-author preprint on coverage-driven user intent understanding, targeting ACL 2027   |
 | 🌐 **Full-stack & cloud**         | Scalable back-ends, databases, CI/CD, and DevOps pipelines                                |
 | 📱 **Mobile & spatial computing** | SwiftUI, Vision Pro apps, and AR/VR experiences                                           |
 | ⚡ **Systems & algorithms**        | Low-level C/C++, data structures, optimisation, and performance                          |
